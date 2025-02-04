@@ -1,0 +1,18 @@
+.peach-back {
+    background-color: lightpink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.peach-back.big {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+#green-back {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
